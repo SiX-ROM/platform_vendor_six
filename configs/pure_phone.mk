@@ -51,7 +51,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     net.tethering.noprovisioning=true \
     persist.sys.dun.override=0 \
     ro.substratum.verified=true \
-    ro.opa.eligible_device=true \
     ro.adb.secure=1
 
 # Thank you, please drive thru!
